@@ -8,7 +8,7 @@ double round(double number);
 void CreateGraph(int *values,int size);
 
 
-string axis = "- ", point = "๐ ", space = "  ";
+string axis = "- ", point = "o ", space = "  ";
  
 int main() {
 
